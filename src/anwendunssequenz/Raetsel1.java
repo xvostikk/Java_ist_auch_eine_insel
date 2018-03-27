@@ -6,7 +6,7 @@ public class Raetsel1 {
 		int val = 2;
 		
 		switch ( val ) {
-		case 1:
+		case 1://trifft nicht zu
 			System.out.println( 1 );
 		case2://erkennt als Label, nicht als case
 			System.out.println( 2 );
